@@ -8034,10 +8034,11 @@ textarea.form-control {
       padding: 3em 0; } }
 
 .casestudy-section {
-        padding: 7em 0;
-        position: relative;
-        height: max-content;
-         }   
+  padding: 1em 0;
+  position: relative; }
+  @media (max-width: 991.98px) {
+    .ftco-section {
+      padding: 1em 0; } }
 
 img .casestudy-section {
 
